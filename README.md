@@ -5,7 +5,7 @@
 I’m a passionate Big Data Engineer and Cloud Architect skilled in **Java, Python, SQL, PySpark, Hadoop**, and **AWS**. I leverage my expertise to craft scalable data solutions and optimize cloud infrastructures.
 
 ### 🎓 Education
-- **Master of Science in Information Technology and Management**, The University of Texas at Dallas (GPA 3.7) - Expected May 2025
+- **Master of Science in Information Technology and Management**, The University of Texas at Dallas          - Expected May 2025
 - **Bachelor of Technology in Computer Science and Engineering**, Aditya College of Engineering and Technology, India - May 2023
 
 ### 🚀 Skills & Technologies
