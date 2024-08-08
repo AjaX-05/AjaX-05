@@ -35,21 +35,3 @@ I’m a passionate Big Data Engineer and Cloud Architect skilled in **Java, Pyth
 I’m a **Gym Freak**! When I’m not immersed in data or cloud technologies, I’m hitting the gym.
 
 ---
-
-## Learnings
-Throughout this project, I have gained valuable insights and experience in the following areas:
-- **End-to-End Data Pipelines:** Understanding the integration of multiple AWS services to create a seamless data pipeline.
-- **AWS Lambda:** Implementing serverless functions for data processing and transformation.
-- **Apache Airflow:** Automating and orchestrating complex workflows with DAGs.
-- **Data Transformation:** Handling and converting data formats between JSON and CSV using Python.
-- **Data Warehousing:** Configuring and managing data in Amazon Redshift.
-- **Data Visualization:** Creating impactful visualizations and reports using AWS QuickSight.
-- **Security Best Practices:** Managing sensitive information, such as API keys and credentials, securely within the project.
-
-## Mistakes and Resolutions
-During the project, I encountered a few challenges:
-- **Initial Setup Issues:** I initially created S3 buckets and Lambda functions in different regions, leading to failures in data processing. I resolved this by recreating the resources in the same region.
-- **EC2 Instance Region Mismatch:** I created an EC2 instance in a region different from where S3 and Lambda were located, which caused issues with the S3ToRedshift operator. I took a snapshot of the EC2 instance and migrated it to the correct region, which resolved the issue.
-
-These experiences taught me the importance of consistent regional configurations and highlighted the need for thorough testing and validation of cloud resources.
-
