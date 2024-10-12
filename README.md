@@ -1,18 +1,19 @@
 # Hi there! I'm Ajay Shankar 👋
 
-### Big Data Engineer & Cloud Architect
+### Backend Software Developer & Cloud Engineer
 
-I’m a passionate Big Data Engineer and Cloud Architect skilled in **Java, Python, SQL, PySpark, Hadoop, Airflow**, and **AWS**. I leverage my expertise to craft scalable data solutions and optimize cloud infrastructures.
+I’m a passionate Backend Software Developer and Cloud Engineer skilled in **Java, JavaScript, Node.js, Python, SQL**, and **AWS**. I leverage my expertise to build robust backend systems, develop scalable web applications, and optimize cloud infrastructures.
 
 ### 🎓 Education
 - **Master of Science in Information Technology and Management**, The University of Texas at Dallas - Expected May 2025
 - **Bachelor of Technology in Computer Science and Engineering**, Aditya College of Engineering and Technology, India - May 2023
 
 ### 🚀 Skills & Technologies
-- **Programming Languages:** Java, Python, JavaScript, JSON, Pandas, Data Structures & Algorithms
-- **Data Engineering:** SQL, PostgreSQL, Apache PySpark, Apache Airflow, Spark Performance Tuning, Hadoop, Hive, Sqoop
-- **Cloud Computing:** AWS (S3, RDS, EMR, Glue, Athena, LakeFormation, Lambda, Elastic Beanstalk, EC2, IAM, VPC, CloudFront, EFS, CloudWatch, ELB, ASG) and Azure (Blob Storage, Data Lake Gen2, Data Factory, HDInsight, Databricks, Azure Pipelines)
-- **Tools & Platforms:** Linux, Windows, Git, GitHub
+- **Programming Languages:** Java, JavaScript, Python, SQL, NoSQL, Data Structures & Algorithms
+- **Backend Development:** Node.js, Express.js, REST API, MongoDB, PostgreSQL, Bcrypt, JWT Authentication, MVC Architecture
+- **Cloud Computing:** AWS (S3, Lambda, RDS, EMR, Redshift, VPC, EC2, IAM, CloudFront, CloudWatch) and Azure (Blob Storage, Data Factory, Databricks, Pipelines)
+- **Big Data & Data Engineering:** Apache Spark, PySpark, Apache Airflow, Hadoop, Hive, Spark Performance Tuning
+- **Tools & Platforms:** Linux, Git, GitHub, Docker, Postman
 
 ### 🏆 Certifications
 - AWS Cloud Practitioner
@@ -21,9 +22,11 @@ I’m a passionate Big Data Engineer and Cloud Architect skilled in **Java, Pyth
 - Azure Fundamentals
 
 ### 🔍 Notable Projects
-- **[ArXiv Spark Project](https://github.com/AjaX-05/ArXiv-metadata-Analysis):** Led a Databricks project optimizing the ArXiv metadata dataset in HDFS. Reduced processing time by 36% with advanced data handling and optimization techniques.
-- **[GHTorrent Analytics (RDD)](https://github.com/AjaX-05/GitHub-Torrent-Analysis):** Analyzed data from the GHTorrent dataset using Apache Spark's RDD (Resilient Distributed Datasets) API. The analysis includes extracting and processing information about GitHub repositories, transactions, and failed HTTP requests. GHTorrent is an offline mirror of data from the GitHub REST API, capturing most data related to pull requests on GitHub, excluding the actual code.
-- **[End-to-End Cloud Data Pipeline for Zillow Data Analytics](https://github.com/AjaX-05/End-to-End-Cloud-Data-Pipeline-for-Zillow-Data-Analytics):** Developed a comprehensive data pipeline using AWS services. The project involved building a pipeline to extract, transform, and load Zillow data using AWS Lambda, orchestrated by Apache Airflow, and visualized with QuickSight. Configured AWS Redshift for data warehousing and integrated security best practices for API keys.
+
+- **[URL Shrinker Application](https://github.com/AjaX-05/Url-Shrinker-App):** Creating a URL shortening web application using Node.js, Express.js, MongoDB, and EJS. Implemented user authentication with JWT and used MongoDB to store shortened URLs. Features include user dashboard and JWT-based access control.
+- **[Personal Habit Tracker Application](https://github.com/AjaX-05/Habit-Challenge-App):** Developed a full-stack web application for habit tracking using Node.js, Express.js, MongoDB, and JWT for secure user authentication. Designed with MVC architecture to enhance maintainability and scalability.
+- **[End-to-End Cloud Data Pipeline for Zillow Data Analytics](https://github.com/AjaX-05/End-to-End-Cloud-Data-Pipeline-for-Zillow-Data-Analytics):** Built a scalable data pipeline on AWS using S3, Lambda, and Redshift for Zillow data processing. Reduced data processing time by 40% with orchestration via Apache Airflow and visualizations using QuickSight.
+- **[ArXiv Spark Project](https://github.com/AjaX-05/ArXiv-metadata-Analysis):** Led a data analysis project optimizing ArXiv metadata using Apache Spark and Hadoop. Achieved a 36% reduction in processing time through advanced data handling techniques.
 
 ### 📫 Contact Me
 - Email: [majaysakthishankar@gmail.com](mailto:majaysakthishankar@gmail.com)
@@ -32,6 +35,4 @@ I’m a passionate Big Data Engineer and Cloud Architect skilled in **Java, Pyth
 - LeetCode: [ajaysakthishankar](https://leetcode.com/u/ajaysakthishankar/)
 
 ### 💪 Fun Fact
-I’m a **Gym Freak**! When I’m not immersed in data or cloud technologies, I’m hitting the gym.
-
----
+I’m a **Gym Enthusiast**! When I’m not developing software or optimizing cloud solutions, you’ll find me lifting weights and staying fit.
