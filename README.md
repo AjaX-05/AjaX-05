@@ -2,7 +2,7 @@
 
 ### Backend Software Developer & Cloud Engineer
 
-I’m a passionate Backend Software Developer and Cloud Engineer skilled in **Java, JavaScript, Node.js, Python, SQL**, and **AWS**. I leverage my expertise to build robust backend systems, develop scalable web applications, and optimize cloud infrastructures.
+I’m a passionate Backend Software Developer and Cloud Engineer skilled in **Java, JavaScript, Node.js, Python, SQL, Apache Spark**, and **AWS**. I leverage my expertise to build robust backend systems, develop scalable web applications, and optimize cloud infrastructures.
 
 ### 🎓 Education
 - **Master of Science in Information Technology and Management**, The University of Texas at Dallas - Expected May 2025
